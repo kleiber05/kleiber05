@@ -1,4 +1,4 @@
 ## Hi there 👋
-#aprendiendo
+aprendiendo
 ## me llamo kleiber diego
-#nuevo en github
+nuevo en github
